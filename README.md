@@ -329,11 +329,6 @@ Multi-Agent-Customer-Support-Intelligence-Platform/
 │   ├── 03_model_training (1).ipynb
 │   └── 04_rag_indexing.ipynb
 │
-├── scripts/
-│   ├── build_vector_index.py
-│   ├── evaluate.py
-│   └── prepare_data.py
-│
 ├── src/
 │   ├── agents/
 │   │   ├── classification_agent.py
