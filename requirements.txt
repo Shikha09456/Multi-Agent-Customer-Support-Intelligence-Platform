@@ -1,0 +1,43 @@
+# Core Python / Data
+pandas
+numpy
+scikit-learn
+joblib
+
+# Visualization / EDA
+matplotlib
+seaborn
+
+# NLP / Embeddings
+sentence-transformers
+transformers
+torch
+
+# RAG / Vector Search
+faiss-cpu
+langchain
+langchain-community
+langchain-text-splitters
+
+# Multi-Agent / Workflow
+langgraph
+
+# LLM - Google Gemini
+langchain-google-genai
+
+# API Backend
+fastapi
+uvicorn[standard]
+pydantic
+
+# Frontend
+streamlit
+
+# Configuration
+python-dotenv
+
+# Document Processing
+pypdf
+
+# Testing
+pytest

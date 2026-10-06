@@ -1,1 +1,1 @@
-# Multi-Agent-Customer-Support-Intelligence-Platform
+Purpose: Project overview, architecture, setup, workflow, APIs, evaluation aur usage documentation.
