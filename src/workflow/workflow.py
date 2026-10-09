@@ -9,7 +9,9 @@ from src.agents.response_agent import ResponseAgent
 from src.agents.escalation_agent import EscalationAgent
 from src.agents.learning_agent import learning_agent
 
+from dotenv import load_dotenv
 
+load_dotenv()
 # ============================================================
 # AGENT INSTANCES
 # ============================================================
