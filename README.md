@@ -50,6 +50,8 @@ This project solves the problem using a **multi-agent architecture**, where each
                           │
                           ▼
                     PostgreSQL
+                          |
+                     Monitoring
 ```
 
 The workflow is implemented using **LangGraph** as a sequential multi-agent workflow.
@@ -384,6 +386,7 @@ Multi-Agent-Customer-Support-Intelligence-Platform/
 | Database Driver | psycopg |
 | Workflow State | TypedDict |
 | API Server | Uvicorn |
+|Langsmith|
 
 ---
 
@@ -804,6 +807,7 @@ Stores the complete interaction in PostgreSQL.
 - ✅ Streamlit chat interface
 - ✅ Agent execution logs
 - ✅ Automated workflow testing
+- ✅Monitoring
 
 ---
 
